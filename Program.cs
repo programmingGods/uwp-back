@@ -20,6 +20,8 @@ namespace uwp_back
 
             var app = builder.Build();
 
+            var n = "ToString";
+
             app.UseCors(MyAllowSpecificOrigins);
 
             app.MapGet("/api/Department", () =>

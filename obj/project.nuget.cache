@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qnIQwlPiegvB2uNlV1bWjfL2oTU8o/ezZxAgCIaup3UErub1QGZt5UFg7UjWiaaRP0tGtT9a+2iWW0pQBFTY2Q==",
+  "dgSpecHash": "9FtzRnF4d64ufprhbJPKlQX9jfHTL27v0RnTrARO42RaGSFd8a7CRDZTuP6+7PcA1UXISqgv3Ge3upd+39fXdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\uwp\\uwp back\\uwp back.csproj",
+  "projectFilePath": "C:\\Users\\user\\Source\\Repos\\uwp-back\\uwp back.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\uwp\\uwp back\\uwp back.csproj": {}
+    "C:\\Users\\user\\Source\\Repos\\uwp-back\\uwp back.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\uwp\\uwp back\\uwp back.csproj": {
+    "C:\\Users\\user\\Source\\Repos\\uwp-back\\uwp back.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\uwp\\uwp back\\uwp back.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\uwp-back\\uwp back.csproj",
         "projectName": "uwp back",
-        "projectPath": "C:\\Users\\user\\source\\repos\\uwp\\uwp back\\uwp back.csproj",
+        "projectPath": "C:\\Users\\user\\Source\\Repos\\uwp-back\\uwp back.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\uwp\\uwp back\\obj\\",
+        "outputPath": "C:\\Users\\user\\Source\\Repos\\uwp-back\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Programs\\MS Visual Studio\\Shared\\NuGetPackages"
